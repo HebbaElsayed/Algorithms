@@ -1,0 +1,24 @@
+--------------------playfair ------------------
+
+ plain text >> come to the party next friday
+ key >> example 
+
+
+---------------Autokey Cipher----------------------
+
+plain text : wearediscoveredsaveyou
+key : deceptivewearediscoveredsav
+ciphertext : ZICVTWQNGKZEIIGASXSTSLVTWLA
+
+------------------Polyalphabetic Ciphers-----------------
+
+key:             deceptivedeceptivedeceptive
+plaintext:    wearediscoveredsaveyourself
+ciphertext:   ZICVTWQNGRZGVTWAVZHCQYGLMGJ
+
+------------------Rail-fence-----------------
+
+key:             2
+plaintext:    meet me after the toga party
+ciphertext:   me eatrtetg atetm fe h oapry
+
